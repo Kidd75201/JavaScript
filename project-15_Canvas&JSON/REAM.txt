@@ -1,0 +1,3 @@
+// Create a pie chart using JSON data
+
+Pie tracks how the average american spends their money.

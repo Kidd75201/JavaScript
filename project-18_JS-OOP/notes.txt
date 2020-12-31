@@ -1,0 +1,11 @@
+JavaScript project to get hired.
+
+1. Form validation (verify passwords, min characters, validation)
+2. Single Page Application (SPA) Zillow.com is a great example
+3. Progressive Web App (PWA) - Offline capabilities, when user does not have internet connection
+4. GSAP animations - Smooth Animations
+5. Fullstack project with Nodejs - ADONIS JS for fullstack development
+    - Create a content managment system
+
+6. For Node.js use different Frameworks (Express, Adonis, )
+

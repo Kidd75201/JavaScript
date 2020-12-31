@@ -1,0 +1,11 @@
+Build a Reddit Search App With ES6, Fetch & Parcel
+
+1. Create Project directory (Web_Development/Javascript/project-14_FindIt)
+2. install Parcel (Blazing fast, zero configuration web application bundler), parceljs.org
+    a. command line install using 'npm install -g parcel-bundler'
+3. create index.html index.js
+4. Create a package.json file in your project directory using:
+    a. 'npm init -y'
+5. Test setup configuration with test file in index.html
+6. Add BootstrapCDN to index.html
+7. 
